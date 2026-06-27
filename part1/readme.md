@@ -10,3 +10,10 @@ unknown -: The any type is the most-capable type in TS - while it encompasses th
 types type elise
 interfaces
 basic union intersection
+
+.d.ts        hints
+             errors
+
+
+npm i some-library
+npm i -D @types/some-library (if not types available)
